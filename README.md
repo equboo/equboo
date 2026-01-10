@@ -38,12 +38,14 @@ I'm a Junior Web Developer with a strong interest in web development and softwar
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
 [![](https://visitcount.itsvg.in/api?id=equboo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Play With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/equboo/equboo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/equboo/equboo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/equboo/equboo/output/pacman-contribution-graph.svg">
 </picture>
+
+---
