@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello Everyone, I'm Mirza Ramadhan!<br><br>I'm a Junior Web Developer with a strong interest in web development and software engineering.  <br>I enjoy building responsive websites, learning new technologies, and improving my problem-solving skills.<br><br>💻 Tech Stack:<br>- HTML, CSS, JavaScript<br>- PHP (Laravel)<br>- MySQL<br>- Git & GitHub<br><br>🌱 Currently learning:<br>- Backend development best practices<br>- REST API<br>- Next.js<br>- Clean code & project architecture<br><br>🎯 Goal:<br>To grow as a professional software developer and contribute to impactful digital products.
 
 
@@ -11,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=equboo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=equboo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=equboo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=equboo&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
