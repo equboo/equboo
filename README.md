@@ -1,6 +1,10 @@
 ## Hello World👋, I'm Mirza Ramadhan!
 
-I'm a Junior Web Developer with a strong interest in web development and software engineering. I enjoy building responsive websites, learning new technologies, and improving my problem-solving skills.
+I am a Junior Web Developer with a strong interest in web development and software engineering. I enjoy learning new technologies, improving my coding skills, and building web applications that are clean, functional, and user-friendly.
+
+I have experience working with fundamental web technologies and backend development, and I am continuously exploring better practices in writing efficient and maintainable code. I am highly motivated, adaptable, and comfortable learning independently as well as collaborating in a team environment.
+
+My goal is to grow as a professional developer, gain real-world experience, and contribute to meaningful projects that have a positive impact through technology
 
 ### 🌐 Socials:
 
